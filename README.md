@@ -21,7 +21,7 @@
 - **Email**: [chautheabhishek@gmail.com](mailto:chautheabhishek@gmail.com)
 - **Phone**: [+91 9075351052](tel:+919075351052)
 - **LinkedIn**: [linkedin.com/in/abhishek-chauthe](https://linkedin.com/in/abhishek-chauthe)
-- **LeetCode**: [leetcode.com/chautheabhishekow](https://leetcode.com/u/chautheabhishek/)
+- **LeetCode**: [leetcode.com/chautheabhishek](https://leetcode.com/u/chautheabhishek/)
 
 ## ⚡ Fun Facts:
 - I love participating in coding challenges and problem-solving on LeetCode (150+ problems solved!)
