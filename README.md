@@ -11,12 +11,15 @@ Tools: Git, GitHub, Postman, JiraI’m currently working on ...
 
  🌱  Currently Learning :-
 Deepening my knowledge in Data Structures, Algorithms, and system design
+
 Exploring the integration of Spring Security for secure web applicationsI’m currently learning ...
 
  👯 👯 Looking to Collaborate On :- 
 
 Open-source projects
+
 Full-stack web development projects
+
 Open to full-time roles and remote job opportunities, where I can contribute my skills and grow as part of an innovative team
 
 
