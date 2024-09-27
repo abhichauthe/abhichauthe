@@ -9,10 +9,10 @@ Frameworks & Libraries: Spring Boot, Spring MVC, Hibernate
 Web Development: Servlets, MongoDB, MySQL
 Tools: Git, GitHub, Postman, JiraI’m currently working on ...
 
- 🌱  Currently Learning :-
+ 🌱 I’m Currently Learning :-
 Deepening my knowledge in Data Structures, Algorithms, and system design
 
-Exploring the integration of Spring Security for secure web applicationsI’m currently learning ...
+Exploring the integration of Spring Security for secure web applications
 
  👯 👯 Looking to Collaborate On :- 
 
@@ -35,7 +35,9 @@ LeetCode: leetcode.com/chautheabhishekow
 
 ⚡ Fun Facts
 
-I love participating in coding challenges and problem-solving on LeetCode (100+ problems solved!)
+I love participating in coding challenges and problem-solving on LeetCode (150+ problems solved!)
+
 Passionate about learning new frameworks and technologies to build scalable, efficient applications
-Always excited to learn, grow, and collaborate on innovative web projectsFun fact: ...
+
+Always excited to learn, grow, and collaborate on innovative web projects
 
