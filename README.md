@@ -13,16 +13,21 @@ Tools: Git, GitHub, Postman, JiraI’m currently working on ...
 Deepening my knowledge in Data Structures, Algorithms, and system design
 Exploring the integration of Spring Security for secure web applicationsI’m currently learning ...
 
- 👯 Looking to Collaborate On
-Open-source projects And
-Full-stack web development projects to collaborate on ...
+ 👯 👯 Looking to Collaborate On :- 
+
+Open-source projects
+Full-stack web development projects
+Open to full-time roles and remote job opportunities, where I can contribute my skills and grow as part of an innovative team
 
 
 📫 Let's Connect :- 
 
 Email: chautheabhishek@gmail.com
+
 Phone: +91 9075351052
+
 LinkedIn: linkedin.com/in/abhishek-chauthe
+
 LeetCode: leetcode.com/chautheabhishekow 
 
 ⚡ Fun Facts
