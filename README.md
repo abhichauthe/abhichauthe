@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Who I Am
 
-I'm a **Java & Full-Stack Developer** with **1.5 years** of hands-on experience building production-grade applications for enterprise clients. I specialize in backend systems using **Spring Boot** and **microservices architecture**, with strong frontend skills in **Vue.js**.
+I'm a **Java & Full-Stack Developer** with ** 2 years** of hands-on experience building production-grade applications for enterprise clients. I specialize in backend systems using **Spring Boot** and **microservices architecture**, with strong frontend skills in **Vue.js**.
 
 Currently working at **NeoSOFT Technologies**, I've had the opportunity to deliver real-world solutions for:
 
